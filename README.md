@@ -1,6 +1,11 @@
 # Getting Started with Create React App
 
 This project was bootstrapped with [Julius Bright](https://juliusbright.com).
+The Intended result was to request movies by using Api from MovieDB,
+I have Componetize all events and intends so it should be easier to modify or read through,
+If you run to any Rendering problem while click in browser please adjust your Cookies or Download Source Code and Follow the The procedures
+
+Thank You
 
 ## Available Scripts
 
