@@ -6,7 +6,10 @@ I have Componetize all events and intends so it should be easier to modify or re
 If you run to any Rendering problem while click in browser please adjust your Cookies or Download Source Code and Follow the The procedures
 
 Thank You
+#Small Device 
 [![Website](https://github.com/JuliasBright/Awesome-Movie/blob/main/Screenshot%202021-01-28%20145609.png )](https://juliusbright.com/)
+[![Website](https://github.com/JuliasBright/Awesome-Movie/blob/main/Screenshot%202021-01-28%20145645.png )](https://juliusbright.com/)
+
 ## Available Scripts
 
 In the project directory, you can run:
