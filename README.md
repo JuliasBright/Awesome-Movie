@@ -9,7 +9,7 @@ If you run to any Rendering problem while click in browser please adjust your Co
 [![Website](https://github.com/JuliasBright/Awesome-Movie/blob/main/Screenshot%202021-01-28%20145609.png )](https://juliusbright.com/)
 [![Website](https://github.com/JuliasBright/Awesome-Movie/blob/main/Screenshot%202021-01-28%20145645.png )](https://juliusbright.com/)
 [![Website](https://github.com/JuliasBright/Awesome-Movie/blob/main/Screenshot%202021-01-28%20145713.png )](https://juliusbright.com/)
-[![Website](https://github.com/JuliasBright/Awesome-Movie/blob/main/Screenshot%202021-01-28%20145807.png.png )](https://juliusbright.com/)
+[![Website](https://github.com/JuliasBright/Awesome-Movie/blob/main/Screenshot%202021-01-28%20145807.png)](https://juliusbright.com/)
 
 ## Available Scripts
 
